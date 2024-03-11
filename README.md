@@ -117,17 +117,17 @@ TON Builder Score is an index to measure a user’s impact on The Open Network w
 
 ## 4 Milestones
 
-### Phase 1: **Incentive Passport:**&#x20;
+### Phase 1: **Incentive Passport(1 week development)**&#x20;
 
 1. Integrate TONConnect wallet on Incentive Passport, enable users to create and use Incentive Passport with one click through TONConnect wallet.&#x20;
 2. Build TBook Incentive Passport TMA, allowing users to use Incentive Passport on telegram and Builder Scores through TMA.
 
-### Phase 2: **TBook Builder Score Engine**:&#x20;
+### Phase 2: **TBook Builder Score Engine(2 weeks development)**&#x20;
 
 1. Build TBook attestation scheme, allow users to attest their social and multi-chain activities on Incentive Passport.
 2. Build TON Builder Score engine. The engine handles the fundamental logic of users' Builder Score index data aggregation, as well as the ranking of users.
 
-### Phase 3: **TON Builder Score Leaderboard**:&#x20;
+### Phase 3: **TON Builder Score Leaderboard(1 week development)**&#x20;
 
 1. Build TBook Incentive Passport Telegram Mini App as the user interface for the telegram community.
 2. Build TON Builder Score Leaderboard, where all parties are able to view the top community builders. Web3 projects can find their best choice of community builders profiles.
