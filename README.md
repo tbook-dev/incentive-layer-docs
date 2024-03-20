@@ -1,14 +1,14 @@
-# TON Builder Score and TBook Incentive Passport Tech Spec
+# TON WISE Score and TBook Incentive Passport Tech Spec
 
 ## 1 Introduction
 
 ### 1.1 Purpose
 
-This documentation is to provide details of the requirements, architecture and implementations for the TON Builder Score and Tbook Incentive Passport.&#x20;
+This documentation is to provide details of the requirements, architecture and implementations for the TON WISE Score and Tbook Incentive Passport.&#x20;
 
-### 1.2 TON Builder Score
+### 1.2 TON WISE(Wealth, identity, social, engagement) Score
 
-TON Builder Score is an index to measure a user’s impact on The Open Network web3 projects. It can:
+TON WISE(Wealth, identity, social, engagement) Score is an index to measure a user’s impact on The Open Network web3 projects. It can:
 
 1. Help TON community participants digitalize their impact. Improve community participation.&#x20;
 2. Help new projects onboard TON, and provide Leaderboard for them to efficiently find the top community users to help them build their business.
@@ -19,16 +19,16 @@ TON Builder Score is an index to measure a user’s impact on The Open Network w
 ### 2.1 Incentive Passport Telegram Mini App
 
 1. Register for a TBook Incentive Passport account by connecting their TON wallet, in the Incentive Passport TMA.&#x20;
-2. Enable users to view their Builder Scores and index metrics in telegram
+2. Enable users to view their WISE Scores and index metrics in telegram
 
 ### 2.2 Multi-Chain Attestation Integration
 
-1. Attest users' activities on multiple blockchains and web2 platforms, and update their Builder Scores. This enables users to translate their impact into a singular index.&#x20;
-2. Generate TON Builder Score with TON address.&#x20;
+1. Attest users' activities on multiple blockchains and web2 platforms, and update their WISE Scores. This enables users to translate their impact into a singular index.&#x20;
+2. Generate TON WISE Score with TON address.&#x20;
 
-### 2.3 Build TON Builder Score Leaderboard
+### 2.3 Build TON WISE Score Leaderboard
 
-1. Users need to be able to earn TON Builder Score points based on their on-chain activities attestations. With TON Builder Score Users will be able to measure and demonstrate their impact on TON.
+1. Users need to be able to earn TON WISE Score points based on their on-chain activities attestations. With TON WISE Score Users will be able to measure and demonstrate their impact on TON.
 2. Leaderboard should be able to show the rank of high impact users. The rank could provide  Each user needs to have a public profile showing their TON Builder Score and key stats.&#x20;
 3. When web3 projects onboard TON, they can find the profiles of high impact crowd on the Leaderboard, and use rewards(airdrops, tokens, NFTs etc.) to attract their participation in promotion campaigns.&#x20;
 
@@ -40,18 +40,18 @@ TON Builder Score is an index to measure a user’s impact on The Open Network w
 
 1. Provides functionalities for identity verification. A user can create an incentive passport by connecting with TON wallet.&#x20;
 2. &#x20;Users can attest their activities and profiles from multiple blockchains and web2 services(X, Meta etc.) through Incentive Passport.&#x20;
-3. &#x20;Users should get access to their incentive passport in the TBook TMA. They can manage and view their TON Builder Scores on the TBook Incentive Passport TMA.
+3. &#x20;Users should get access to their incentive passport in the TBook TMA. They can manage and view their TON WISE Scores on the TBook Incentive Passport TMA.
 
-#### **2 TON Builder Score Engine**
+#### **2 TON WISE Score Engine**
 
-1. TON Builder Score is an indicator of: activeness, holdings and coinage, engagement, multi-chain wealth and social impact.&#x20;
+1. TON WISE Score is an indicator of: activeness, holdings and coinage, engagement, multi-chain wealth and social impact.&#x20;
 2. Handles the calculation of users’ TON Builder Scores and user ranking.&#x20;
-3. Each time a user attests certain data, TON Builder Score Engine will update the TOP users if there's any changes in the leaderboard. The update will be in the manner of a priority queue.
+3. Each time a user attests certain data, TON WISE Score Engine will update the TOP users if there's any changes in the leaderboard. The update will be in the manner of a priority queue.
 
 #### **3 Leaderboard**
 
-1. The user interface that provides the ranking of users' TON Builder Score. Leaderboard provides a UI with the high ranking individuals.&#x20;
-2. Users can open TON Builder Score Leaderboard in his own incentive passport TMA.
+1. The user interface that provides the ranking of users' TON WISE Score. Leaderboard provides a UI with the high ranking individuals.&#x20;
+2. Users can open TON WISE Score Leaderboard in his own incentive passport TMA.
 
 ### 3.2 User Interface Design
 
@@ -67,7 +67,7 @@ TON Builder Score is an index to measure a user’s impact on The Open Network w
 
 </div>
 
-#### **2 TON Builder Score with Interactive leaderboard**
+#### **2 TON WISE Score with Interactive leaderboard**
 
 <div align="left">
 
@@ -103,11 +103,11 @@ TON Builder Score is an index to measure a user’s impact on The Open Network w
 2. Incentive passport TMA will support all incentive assets of Tbook.
 3. Incentive passport TMA will be able to track all incentive footprints of users.
 
-#### 2 TON Builder Score Engine
+#### 2 TON WISE Score Engine
 
-1. Aggregate and update users' TON Builder Scores.&#x20;
-2. Rank users based on TON Builder Scores. This happens on each user attestation.
-3. TON Builder Score Leaderboard as the presentation layer of TON Builder Score ranks.
+1. Aggregate and update users' TON WISE Scores.&#x20;
+2. Rank users based on TON WISE Scores. This happens on each user attestation.
+3. TON WISE Score Leaderboard as the presentation layer of TON Builder Score ranks.
 
 #### 3 Attestation
 
@@ -120,21 +120,21 @@ TON Builder Score is an index to measure a user’s impact on The Open Network w
 ### Phase 1: **Incentive Passport(1 week development)**&#x20;
 
 1. Integrate TONConnect wallet on Incentive Passport, enable users to create and use Incentive Passport with one click through TONConnect wallet.&#x20;
-2. Build TBook Incentive Passport TMA, allowing users to use Incentive Passport on telegram and Builder Scores through TMA.
+2. Build TBook Incentive Passport TMA, allowing users to use Incentive Passport on telegram and WISE Scores through TMA.
 
-### Phase 2: **TBook Builder Score Engine(2 weeks development)**&#x20;
+### Phase 2: **TBook WISE Score Engine(2 weeks development)**&#x20;
 
 1. Build TBook attestation scheme, allow users to attest their social and multi-chain activities on Incentive Passport.
-2. Build TON Builder Score engine. The engine handles the fundamental logic of users' Builder Score index data aggregation, as well as the ranking of users.
+2. Build TON WISE Score engine. The engine handles the fundamental logic of users' Builder Score index data aggregation, as well as the ranking of users.
 
-### Phase 3: **TON Builder Score Leaderboard(1 week development)**&#x20;
+### Phase 3: **TON WISE Score Leaderboard(1 week development)**&#x20;
 
 1. Build TBook Incentive Passport Telegram Mini App as the user interface for the telegram community.
-2. Build TON Builder Score Leaderboard, where all parties are able to view the top community builders. Web3 projects can find their best choice of community builders profiles.
+2. Build TON WISE Score Leaderboard, where all parties are able to view the top community builders. Web3 projects can find their best choice of community builders profiles.
 
 ## 5 Conclusion
 
-The TON Builder Score will be a critical piece of infrastructure to accelerate the growth of the web3 projects built on TON and those who want to onboard TON. The key value of TON Builder Score would be:
+The TON WISE Score will be a critical piece of infrastructure to accelerate the growth of the web3 projects built on TON and those who want to onboard TON. The key value of TON Builder Score would be:
 
 1. Creating a standard for user activity and reputation measurement on TON. Enabling users to digitalize their impact.
 2. Helping projects to airdrop to a user crowd that has the highest potential of boosting their growth efficiently.
@@ -143,4 +143,4 @@ The TON Builder Score will be a critical piece of infrastructure to accelerate t
 
 In the initial phase of Tbook, we need to work with the top applications on TON network as the cold start phase. Thus we need help from TON to connect us with these applications.&#x20;
 
-With the integration of TON Builder Score in Tbook Incentive Passport, we will be able to help projects built on TON to gain their advantages on the market quickly. We will also be able to bring more high quality community builders and web3 projects into the TON ecosystem.
+With the integration of TON WISE Score in Tbook Incentive Passport, we will be able to help projects built on TON to gain their advantages on the market quickly. We will also be able to bring more high quality community builders and web3 projects into the TON ecosystem.
