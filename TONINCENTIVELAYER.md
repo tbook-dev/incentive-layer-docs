@@ -2,23 +2,23 @@
 
 ## Dilemma of Privacy Invading Business Model
 
-The most successful Web2 internet companies are also the most successful data companies. They have taken the value proposition of "data is oil" to the extreme. Internet companies invest vast resources in constructing a highly efficient data monetization business system.
+The most successful Web2 companies are also the most successful data companies. They believe that "data is the new oil", and has taken the notion to the extreme. Internet companies invest massive resources in constructing highly efficient data monetization systems.
 
-In this business system, internet companies almost exclusively focus on two goals: making every effort to understand every user behavior and using recommendation algorithms to match users with products and services they are likely to pay for. By consistently fulfilling these two goals, internet companies have indeed achieved their business objectives, much like selling oil, although they are not merely selling resources.
+In our current commercial world, internet companies almost focus only on two goals: making every effort to understand every user behavior, and using *recommendation algorithms* to match users with products and services they are likely to pay for. By consistently pursuing these two goals, internet companies have successfully monetized user data, and it is as lucrative as selling oil, although they are not merely selling resources.
 
-However, there are some notable problems with achieving business goals by constantly extracting user data:
+However, the pursuit of business objectives through the constant extraction of user data has raised significant concerns:
 
 - Continuous data exploitation often fails to protect privacy.
 
 - Overusing recommendation algorithms to match revenue-generating services and products squeezes out users' _real demands_.
 
-Users start to become anxious about their privacy being used arbitrarily, becoming extremely insecure. Users find that opening an internet app does not efficiently meet their needs but rather immerses them in more and more "recommended" and "considered necessary" content. In a word: users are unhappy.
+Users start to become worried about their privacy being used frivolously, becoming extremely insecure. Users discover that internet apps often fail to directly meet their needs, instead bombarding them with an endless stream of "recommended" and supposedly "essential" content. In a word: users are not happy.
 
 ## Why 900 Million Choose Telegram and TON
 
-Meanwhile, we have witnessed a business miracle: Telegram's monthly active users have surpassed 900 million, almost in a way that does not pursue commercial goals.
+Meanwhile, we have witnessed a commercial miracle: Telegram's monthly active users have surpassed 900 million, almost in a way that does not pursue any commercial goals.
 
-Protection of privacy is considered one of the most important reasons people choose Telegram for daily communications. Users enjoy this elegant and efficient interaction. When we use Telegram, it's as if we have found what the internet should look like.
+Protection of privacy is considered one of the most important reasons people choose Telegram for daily communications. Users enjoy this elegant and efficient interaction. When we use Telegram, it's as if we have found what the internet should be like.
 
 Business is a naturally occurring logic, and many entrepreneurs want to meet users' commercial needs based on Telegram. The collaboration between Telegram and TON allows us to see the possibility of an elegant win-win solution between business and privacy.
 
@@ -42,7 +42,7 @@ Business -> Business
 Users -> Users
 </p>
 
-We are building a privacy-protecting commercial topology based on TON, namely the Incentive Layer.
+We are building a privacy-protecting commercial topology based on TON: The Incentive Layer.
 
 - Users have control over their data
 - Business and user needs can be well-matched
