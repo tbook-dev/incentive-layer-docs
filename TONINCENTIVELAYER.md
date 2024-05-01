@@ -29,24 +29,9 @@ The topology of Web2 model is:
 ![alt text](https://github.com/tbook-dev/ton-builder-score/blob/main/pics/businessusersplatform.png)
 
 
-<p align="center">
-Business -> Platform -> Users
-</p>
-
 While the topology of Telegram and TON is:
 <p align="center">
-
 ![alt text](https://github.com/tbook-dev/ton-builder-score/blob/main/pics/b2b.png)
-</p>
-
-<p align="center">
-Business -> Users
-</p>
-<p align="center">
-Business -> Business
-</p>
-<p align="center">
-Users -> Users
 </p>
 
 We are building a privacy-protecting commercial topology based on TON: The Incentive Layer.
