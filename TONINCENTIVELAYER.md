@@ -4,7 +4,7 @@
 
 The most successful Web2 companies believe that "data is the new oil", and have taken the notion to the extreme. These companies invest massive resources in constructing highly efficient data collection and monetization systems.
 
-In this commercial setup, internet companies almost focus only on two goals: making every effort to understand every user behavior, and using **recommendation algorithms** to match users with _products_ and _services_ they are likely to pay for. By consistently pursuing these two goals, internet companies have successfully monetized users' data, and it is as lucrative as selling oil.
+In this commercial setup, internet companies almost focus only on two goals: making every effort to understand every user behavior, and using _**recommendation algorithms**_ to match users with _products_ and _services_ they are likely to pay for. By consistently pursuing these two goals, internet companies have successfully monetized users' data, and it is as lucrative as selling oil.
 
 However, the seeking of these objectives through consistently squeezing user data has raised significant concerns:
 
@@ -53,19 +53,19 @@ We are building a privacy-protecting commercial topology based on TON: The Incen
 
 ## Incentive Layer
 
-The two core features of the Incentive Layer are **Incentive Passport** and **WISE Score**.
+The two core features of the Incentive Layer are _**Incentive Passport**_ and _**WISE Score**_.
 
-**Incentive Passport** is a user profile bridging on-chain and off-chain identities. Projects can track users' on-chain footprints through Incentive Passport to determine whether they are a good target to incentivize.
+_**Incentive Passport**_ is a user profile bridging on-chain and off-chain identities. Projects can track users' on-chain footprints through Incentive Passport to determine whether they are a good target to incentivize.
 
-**WISE Score** is an index that quantifies user impact and allows users to freely choose whether to erase their traces. WISE Score refers to the user's scores in four dimensions: **Wealth**, **Identity**, **Social**, and **Engagement**. Users actively verify their data through **Attestation** to build their impact, submitting and aggregating it into the Incentive Passport as proof of their impact in the community. 
+**WISE Score** is an index that quantifies user impact and allows users to freely choose whether to erase their traces. WISE Score refers to the user's scores in four dimensions: _**Wealth**_, _**Identity**_, _**Social**_, and _**Engagement**_. Users actively verify their data through **Attestation** to build their impact, submitting and aggregating it into the Incentive Passport as proof of their impact in the community. 
 
 The user data used in WISE Score is data that users actively open up. Users can revoke any data they wish to erase at any time, which is a data sovereignty friendly design.
 
 ## Leaderboard for Demands Matching 
 
-By ranking WISE Scores, the **WISE Score Leaderboard** can help businesses find the most suitable user crowds.
+By ranking WISE Scores, the _**WISE Score Leaderboard**_ can help businesses find the most suitable user crowds.
 
-We are designing an **interactive**, **data-erasable** and **competitive** WISE Score Leaderboard. The Leaderboard is a _**new paradigm**_ for **demand matching** that can help projects find their most core community supporters. Leveraging the Leaderboard, projects can design fairer and more effective incentive methods to build their communities and businesses.
+We are designing an _**interactive**_, _**data-erasable**_ and _**competitive**_ WISE Score Leaderboard. The Leaderboard is a _**new paradigm**_ for _**demand matching**_ that can help projects find their most core community supporters. Leveraging the Leaderboard, projects can design fairer and more effective incentive methods to build their communities and businesses.
 
 Through different dimensions of the Leaderboard, projects can find the most suitable users for their projects. This matching model can maximize the efficiency of cold boost of a project, while allowing users to profit in the TON ecosystem without compromising their privacy.
 
