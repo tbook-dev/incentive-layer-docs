@@ -25,11 +25,16 @@ Business is a naturally occurring logic, and many entrepreneurs want to meet use
 ## TON Incentive Layer: Win Win Solution
 
 The topology of Web2 model is:
+
 Business -> Platform -> Users
+{:center}
 
 While the topology of Telegram and TON is:
+
 Business -> Users
+
 Business -> Business
+
 Users -> Users
 
 We are building a privacy-protecting commercial topology based on TON, namely the Incentive Layer.
