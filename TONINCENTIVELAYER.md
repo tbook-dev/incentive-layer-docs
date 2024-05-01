@@ -33,6 +33,18 @@ While the topology of Telegram and TON is:
 
 ![alt text](https://github.com/tbook-dev/ton-builder-score/blob/main/pics/b2b.png)
 
+<p style="text-align: center;">
+  Businesses -> Users
+</p>
+
+<p style="text-align: center;">
+  Businesses -> Businesses
+</p>
+
+<p style="text-align: center;">
+  Users -> Users
+</p>
+
 
 We are building a privacy-protecting commercial topology based on TON: The Incentive Layer.
 
