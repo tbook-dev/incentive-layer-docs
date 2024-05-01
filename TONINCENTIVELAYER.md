@@ -53,20 +53,22 @@ We are building a privacy-protecting commercial topology based on TON: The Incen
 
 ## Incentive Layer
 
-The two core features of the Incentive Layer are **WISE Score** and **Incentive Passport**.
+The two core features of the Incentive Layer are **Incentive Passport** and **WISE Score**.
 
-**Incentive Passport** is an on-chain user profile. In the TBook Incentive Layer, users can build and manage their identity using incentive passports. Incentive Passport is not just an on-chain user profile; projects can track users' on-chain footprints through Incentive Passport to determine whether they are a good target of an airdrop.
+**Incentive Passport** is a user profile bridging on-chain and off-chain identities. Projects can track users' on-chain footprints through Incentive Passport to determine whether they are a good target to incentivize.
 
-**WISE Score** is an index that quantifies user impact and allows users to freely choose whether to erase their traces. WISE Score refers to the user's scores in four dimensions: **Wealth**, **Identity**, **Social**, and **Engagement**. In the Incentive Layer, users actively verify their data through on-chain Attestation to build their influence, submitting and aggregating it into the Incentive Passport as proof of their influence in the community. By ranking WISE Scores, the WISE Score Leaderboard can help businesses find the most suitable user crowds.
+**WISE Score** is an index that quantifies user impact and allows users to freely choose whether to erase their traces. WISE Score refers to the user's scores in four dimensions: **Wealth**, **Identity**, **Social**, and **Engagement**. Users actively verify their data through **Attestation** to build their impact, submitting and aggregating it into the Incentive Passport as proof of their impact in the community. 
 
-The user data used in WISE Score is data that users actively open. Users can revoke any data they wish to erase at any time, which is a design that respects user data sovereignty.
+The user data used in WISE Score is data that users actively open up. Users can revoke any data they wish to erase at any time, which is a data sovereignty friendly design.
 
-## Leaderboard as Demands Matching Mechanism
+## Leaderboard for Demands Matching 
 
-We are designing an interactive, data-erasable competitive WISE Score Leaderboard. The Leaderboard is a new paradigm for demand matching that can help projects find their most core community supporters. Based on the Leaderboard, projects can design fairer and more effective incentive methods to build their communities and businesses.
+By ranking WISE Scores, the **WISE Score Leaderboard** can help businesses find the most suitable user crowds.
 
-By combining data from different dimensions, projects can find the most suitable initial core user group for their projects on the Leaderboard. This matching model can maximize the cold boost cost of a project in its early stages of operation while allowing users to profit in the Web3 ecosystem without compromising their privacy.
+We are designing an **interactive**, **data-erasable** and **competitive** WISE Score Leaderboard. The Leaderboard is a new paradigm for **demand matching** that can help projects find their most core community supporters. Leveraging the Leaderboard, projects can design fairer and more effective incentive methods to build their communities and businesses.
 
-According to the leaderboard aggregated by one or more dimensions, combined with the user's contribution to the project, a project can design a perfect airdrop scheme in the TON ecosystem. We believe that the TON WISE Score Leaderboard will greatly improve the efficiency of new projects onboarding the TON ecosystem and promote the explosion of applications in the TON ecosystem.
+Through different dimensions of the Leaderboard, projects can find the most suitable users for their projects. This matching model can maximize the efficiency of cold boost of a project, while allowing users to profit in the TON ecosystem without compromising their privacy.
+
+Leveraging the leaderboard aggregated by one or more dimensions, combined with the user's contribution to the project, a project can design a perfect airdrop scheme in the TON ecosystem. We believe that the TON WISE Score Leaderboard will greatly improve the efficiency of new projects onboarding the TON ecosystem and promote the applications explosion in the TON ecosystem.
 
 TBook hopes to help TON become the perfect choice for all entrepreneurs who wish to make a difference in the Web3 world.
