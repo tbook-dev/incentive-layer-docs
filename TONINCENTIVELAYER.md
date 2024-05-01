@@ -26,8 +26,9 @@ Business is a naturally occurring logic, and many entrepreneurs want to meet use
 
 The topology of Web2 model is:
 
-{{% Business -> Platform -> Users %}}
-{{% center %}} Business -> Platform -> Users {{% /center %}} 
+<p align="center">
+Business -> Platform -> Users
+</p>
 
 While the topology of Telegram and TON is:
 
