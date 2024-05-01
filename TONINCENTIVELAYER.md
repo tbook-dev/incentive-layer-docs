@@ -69,4 +69,4 @@ By combining data from different dimensions, projects can find the most suitable
 
 According to the leaderboard aggregated by one or more dimensions, combined with the user's contribution to the project, a project can design a perfect airdrop scheme in the TON ecosystem. We believe that the TON WISE Score Leaderboard will greatly improve the efficiency of new projects onboarding the TON ecosystem and promote the explosion of applications in the TON ecosystem.
 
-TBook hopes to help TON become the perfect choice for all entrepreneurs who want to make a difference in the Web3 world.
+TBook hopes to help TON become the perfect choice for all entrepreneurs who wish to make a difference in the Web3 world.
