@@ -35,6 +35,8 @@ Business -> Platform -> Users
 
 While the topology of Telegram and TON is:
 
+![alt text](https://github.com/tbook-dev/ton-builder-score/blob/main/pics/b2b.png)
+
 <p align="center">
 Business -> Users
 </p>
