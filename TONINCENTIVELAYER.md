@@ -4,13 +4,13 @@
 
 The most successful Web2 internet companies are also the most successful data companies. They have taken the value proposition of "data is oil" to the extreme. Internet companies invest vast resources in constructing a highly efficient data monetization business system.
 
-In this business system, internet companies almost exclusively focus on two goals: making every effort to understand every user behavior and using recommendation algorithms to match users with products and services they are likely to pay for. By continuously fulfilling these two goals, internet companies have indeed achieved their business objectives, much like selling oil, although they are not merely selling resources.
+In this business system, internet companies almost exclusively focus on two goals: making every effort to understand every user behavior and using recommendation algorithms to match users with products and services they are likely to pay for. By consistently fulfilling these two goals, internet companies have indeed achieved their business objectives, much like selling oil, although they are not merely selling resources.
 
 However, there are some notable problems with achieving business goals by constantly extracting user data:
 
-- Continuous data collection often fails to protect privacy.
+- Continuous data exploitation often fails to protect privacy.
 
-- Overusing recommendation algorithms to match revenue-generating services and products squeezes out users' native needs in internet products.
+- Overusing recommendation algorithms to match revenue-generating services and products squeezes out users' _real demands_.
 
 Users start to become anxious about their privacy being used arbitrarily, becoming extremely insecure. Users find that opening an internet app does not efficiently meet their needs but rather immerses them in more and more "recommended" and "considered necessary" content. In a word: users are unhappy.
 
