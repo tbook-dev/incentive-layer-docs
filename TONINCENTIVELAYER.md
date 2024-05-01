@@ -54,7 +54,7 @@ The user data used in WISE Score is data that users actively open up. Users can 
 
 By ranking WISE Scores, the **WISE Score Leaderboard** can help businesses find the most suitable user crowds.
 
-We are designing an **interactive**, **data-erasable** and **competitive** WISE Score Leaderboard. The Leaderboard is a new paradigm for **demand matching** that can help projects find their most core community supporters. Leveraging the Leaderboard, projects can design fairer and more effective incentive methods to build their communities and businesses.
+We are designing an **interactive**, **data-erasable** and **competitive** WISE Score Leaderboard. The Leaderboard is a _**new paradigm**_ for **demand matching** that can help projects find their most core community supporters. Leveraging the Leaderboard, projects can design fairer and more effective incentive methods to build their communities and businesses.
 
 Through different dimensions of the Leaderboard, projects can find the most suitable users for their projects. This matching model can maximize the efficiency of cold boost of a project, while allowing users to profit in the TON ecosystem without compromising their privacy.
 
