@@ -58,6 +58,6 @@ We are designing an **interactive**, **data-erasable** and **competitive** WISE 
 
 Through different dimensions of the Leaderboard, projects can find the most suitable users for their projects. This matching model can maximize the efficiency of cold boost of a project, while allowing users to profit in the TON ecosystem without compromising their privacy.
 
-Leveraging the leaderboard aggregated by one or more dimensions, combined with the user's contribution to the project, a project can design a perfect airdrop scheme in the TON ecosystem. We believe that the TON WISE Score Leaderboard will greatly improve the efficiency of new projects onboarding the TON ecosystem and promote the applications explosion in the TON ecosystem.
+Leveraging the leaderboard aggregated by one or more dimensions, combined with the user's contribution to the project, a project can _**design a perfect airdrop scheme in the TON ecosystem**_. We believe that the TON WISE Score Leaderboard will _**greatly improve**_ the efficiency of new projects onboarding the TON ecosystem and _**promote the applications explosion**_ in the TON ecosystem.
 
 TBook hopes to help TON become the perfect choice for all entrepreneurs who wish to make a difference in the Web3 world.
