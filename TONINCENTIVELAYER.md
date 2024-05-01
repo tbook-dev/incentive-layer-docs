@@ -32,11 +32,14 @@ Business -> Platform -> Users
 
 While the topology of Telegram and TON is:
 
+<p align="center">
+
 Business -> Users
 
 Business -> Business
 
 Users -> Users
+</p>
 
 We are building a privacy-protecting commercial topology based on TON, namely the Incentive Layer.
 
