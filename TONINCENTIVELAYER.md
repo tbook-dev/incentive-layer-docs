@@ -2,15 +2,15 @@
 
 ## Dilemma of Privacy Invading Business Model
 
-The most successful Web2 companies are also the most successful data companies. They believe that "data is the new oil", and has taken the notion to the extreme. Internet companies invest massive resources in constructing highly efficient data monetization systems.
+The most successful Web2 companies believe that "data is the new oil", and have taken the notion to the extreme. These companies invest massive resources in constructing highly efficient data collection and monetization systems.
 
-In our current commercial world, internet companies almost focus only on two goals: making every effort to understand every user behavior, and using **recommendation algorithms** to match users with products and services they are likely to pay for. By consistently pursuing these two goals, internet companies have successfully monetized user data, and it is as lucrative as selling oil, although they are not merely selling resources.
+In this commercial setup, internet companies almost focus only on two goals: making every effort to understand every user behavior, and using **recommendation algorithms** to match users with _products_ and _services_ they are likely to pay for. By consistently pursuing these two goals, internet companies have successfully monetized users' data, and it is as lucrative as selling oil.
 
-However, the pursuit of business objectives through the constant extraction of user data has raised significant concerns:
+However, the seeking of these objectives through consistently squeezing user data has raised significant concerns:
 
 - Continuous data exploitation often fails to protect privacy.
 
-- Overusing recommendation algorithms to match revenue-generating services and products squeezes out users' _real demands_.
+- Overusing recommendation algorithms to match revenue-generating services and products, this occupies attention from users' _real demands_.
 
 Users start to become worried about their privacy being used frivolously, becoming extremely insecure. Users discover that internet apps often fail to directly meet their needs, instead bombarding them with an endless stream of "recommended" and supposedly "essential" content. In a word: users are not happy.
 
