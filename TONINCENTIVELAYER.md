@@ -26,6 +26,9 @@ Commerce is a naturally occurring logic, and many entrepreneurs want to meet use
 
 The topology of Web2 model is:
 
+![alt text](https://github.com/tbook-dev/ton-builder-score/blob/main/pics/businessusersplatform.png)
+
+
 <p align="center">
 Business -> Platform -> Users
 </p>
