@@ -18,7 +18,7 @@ Users start to become anxious about their privacy being used arbitrarily, becomi
 
 Meanwhile, we have witnessed a business miracle: Telegram's monthly active users have surpassed 900 million, almost in a way that does not pursue commercial goals.
 
-Protection of privacy is considered one of the most important reasons people choose Telegram as a communication tool. Users enjoy this clean and efficient interaction. When we use Telegram, it's as if we have found what the internet should look like.
+Protection of privacy is considered one of the most important reasons people choose Telegram for daily communications. Users enjoy this elegant and efficient interaction. When we use Telegram, it's as if we have found what the internet should look like.
 
 Business is a naturally occurring logic, and many entrepreneurs want to meet users' commercial needs based on Telegram. The collaboration between Telegram and TON allows us to see the possibility of an elegant win-win solution between business and privacy.
 
