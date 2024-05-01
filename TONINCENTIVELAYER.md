@@ -34,7 +34,11 @@ While the topology of Telegram and TON is:
 
 <p align="center">
 Business -> Users
+</p>
+<p align="center">
 Business -> Business
+</p>
+<p align="center">
 Users -> Users
 </p>
 
