@@ -12,15 +12,15 @@ However, the seeking of these objectives through consistently squeezing user dat
 
 - Overusing recommendation algorithms to match revenue-generating services and products, this occupies attention from users' _real demands_.
 
-Users start to become worried about their privacy being used frivolously, becoming extremely insecure. Users discover that internet apps often fail to directly meet their needs, instead bombarding them with an endless stream of "recommended" and supposedly "essential" content. In a word: users are not happy.
+Users start to become worried about their privacy being used frivolously, becoming extremely insecure. Users found out that these apps often fail to directly meet their needs, instead bombarding them with an endless stream of "recommended" and supposedly "essential" content. In a word: users are not happy.
 
 ## Why 900 Million Choose Telegram and TON
 
-Meanwhile, we have witnessed a commercial miracle: Telegram's monthly active users have surpassed 900 million, almost in a way that does not pursue any commercial goals.
+Meanwhile, we have witnessed a commercial miracle: Telegram's monthly active users have surpassed 900 million, almost in a way that differs from commercial goals pursuing companies.
 
-Protection of privacy is considered one of the most important reasons people choose Telegram for daily communications. Users enjoy this elegant and efficient interaction. When we use Telegram, it's as if we have found what the internet should be like.
+Privacy protection is considered one of the most important reasons people choose Telegram for daily communications. Users enjoy this elegant and efficient interaction, as if we have found what the internet should be like.
 
-Commerce is a naturally occurring logic, and many entrepreneurs want to meet users' commercial needs based on Telegram. The partnership between Telegram and TON allows us to see the possibility of an elegant win-win solution between business and privacy.
+Commerce has its own natural logic, and many entrepreneurs want to meet users' commercial needs on Telegram. The partnership between Telegram and TON allows us to see the possibility of an elegant win-win solution between commerce and privacy.
 
 ## TON Incentive Layer: Win Win Solution
 
