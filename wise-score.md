@@ -1,39 +1,54 @@
 # WISE Score for Community Value Assessment
 
-**What is the WISE Score?**
+## What is the WISE Score?
 
-**W**ealth, **I**dentity, **S**ocial, **E**ngagement. The WISE Score is a multidimensional, holistic way to measure a user's influence and value in the TBook community. It considers not only a user's on-chain wealth but also their identity, social connections, and community engagement.
+With tailored metrics for each dimension, WISE Score offers users a comprehensive view of their impact in both on-chain and off-chain activities within the Web3 ecosystem. Beyond mere transactional data, it delves into the breadth and depth of user engagement, loyalty, and unique identity roles, shaping a holistic understanding of their incentive footprint.
 
-## Benefits of WISE Score
+In the product Incentive Passport from TBook, every user can generate their own unique WISE Score.
 
-1. **A Comprehensive Metric**: WISE Score provides a more comprehensive and balanced assessment of a user's community value by considering multiple dimensions, not just wealth.
+## WISE Indicator System
 
-2. **Incentivizing Engagement**: By including engagement as a key factor, WISE Score encourages active participation and contribution to the TBook community.
+When evaluating a user’s contribution within the Web3 ecosystem, it’s crucial to consider various factors regarding user interaction with the protocol and project campaigns. Metrics such as the frequency, depth, and scope of user engagement play a significant role. Additionally, factors like user identity should not be overlooked.
 
-3. **Fostering Social Connections**: The social dimension of WISE Score promotes networking and relationship building within the community.
-
-4. **Verifiable and Trustworthy**: WISE Score leverages on-chain data and verifiable credentials, ensuring the scores are transparent and resistant to manipulation.
-
-## Understanding the Dimensions
+Early adopters who have been integral to the project’s growth demonstrate a high level of loyalty, which further enhances their significance. In light of these considerations, the WISE Score has been designed to encompass four key dimensions: Wealth, Identity, Social, and Engagement (W.I.S.E.).
 
 ### 1. Wealth (W)
 
 <div align="left">
 
-<figure><img src="pics/wealth.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="pics/wealth.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
 
-The wealth dimension considers a user's on-chain assets, including cryptocurrency holdings, NFTs, and other digital assets. This dimension provides insight into a user's financial stake in the community.
+We aggregate a user’s attested wealth in the previous week and denote this wealth in the unit of **USD**. These wealth include:
+
+Crypto coins and tokens, that users have attested on TBook
+Total assets on trading platforms, attested by users on TBook
+Bank deposits, attested by users on TBook
 
 ### 2. Identity (I)
+
+<div align="left">
+
+<figure><img src="pics/identity.png" alt="" width="250"><figcaption></figcaption></figure>
+</div>
 
 The identity dimension takes into account a user's verified credentials, such as KYC, social media profiles, and other forms of identity verification. A higher identity score indicates a more trustworthy and authentic user.
 
 ### 3. Social (S)
 
+<div align="left">
+
+<figure><img src="pics/social.png" alt="" width="250"><figcaption></figcaption></figure>
+</div>
+
 The social dimension measures a user's connections and interactions within the TBook community. This includes factors such as the number of followers, the quality of interactions, and the user's overall social influence.
 
 ### 4. Engagement (E)
+
+<div align="left">
+
+<figure><img src="pics/engagement.png" alt="" width="250"><figcaption></figcaption></figure>
+</div>
 
 The engagement dimension assesses a user's level of activity and contribution to the TBook community. This includes actions such as posting content, participating in discussions, and engaging with other users' content.
 
