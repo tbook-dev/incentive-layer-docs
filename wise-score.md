@@ -21,9 +21,9 @@ Early adopters who have been integral to the project’s growth demonstrate a hi
 
 We aggregate a user’s attested wealth in the previous week and denote this wealth in the unit of **USD**. These wealth include:
 
-Crypto coins and tokens, that users have attested on TBook
-Total assets on trading platforms, attested by users on TBook
-Bank deposits, attested by users on TBook
+1. Crypto coins and tokens, that users have attested on TBook
+2. Total assets on trading platforms, attested by users on TBook
+3. Bank deposits, attested by users on TBook
 
 ### 2. Identity (I)
 
