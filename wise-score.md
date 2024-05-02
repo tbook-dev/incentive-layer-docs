@@ -32,7 +32,11 @@ We aggregate a user’s attested wealth in the previous week and denote this wea
 <figure><img src="pics/identity.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
 
-The identity dimension takes into account a user's verified credentials, such as KYC, social media profiles, and other forms of identity verification. A higher identity score indicates a more trustworthy and authentic user.
+Identity score is a metrics that are based on the following:
+
+1. User has linked TBook passport to crypto address
+2. Users has linked TBook passport to social apps
+3. User has attested their KYC through a verified third party(like Binance)
 
 ### 3. Social (S)
 
@@ -41,7 +45,11 @@ The identity dimension takes into account a user's verified credentials, such as
 <figure><img src="pics/social.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
 
-The social dimension measures a user's connections and interactions within the TBook community. This includes factors such as the number of followers, the quality of interactions, and the user's overall social influence.
+Social impact is measured daily, based on the following:
+
+1. Total followers of a user from these social networks: Twitter.
+2. Total number of subscribers of Telegram groups and channels that a user is an administrator in.
+3. Total amount of subscribers of discord servers that a user is an administrator in.
 
 ### 4. Engagement (E)
 
@@ -50,18 +58,24 @@ The social dimension measures a user's connections and interactions within the T
 <figure><img src="pics/engagement.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
 
-The engagement dimension assesses a user's level of activity and contribution to the TBook community. This includes actions such as posting content, participating in discussions, and engaging with other users' content.
+We measure users’ engagement based on the following metrics:
 
-## Calculating the WISE Score
+1. Total number of verified credentials on TBook.
+2. Total amount of on-chain transactions.
 
-The WISE Score is calculated using a proprietary algorithm that assigns weights to each dimension based on their relative importance. The exact formula is not disclosed to prevent gaming of the system.
+### An Example of WISE Score
 
-## Accessing Your WISE Score
+Shown in the Figure is our WISE Score snapshot in TBook. The queried address had a WISE Score of 353,230, ranking in the top 30% among all TBook WISE Score holders.
 
-Users can view their WISE Score on their TBook profile page. The score is updated in real-time based on the user's activity and interactions within the community.
+<div align="left">
 
-## Future Developments
+<figure><img src="pics/examplewise.png" alt="" width="250"><figcaption></figcaption></figure>
+</div>
 
-The TBook team is continuously working on refining and expanding the WISE Score system. Future updates may include additional dimensions, more granular scoring, and integration with other TBook features.
+This address scored 196,000 for Wealth, interacting with a relatively high variety of contracts and protocols. However, this address lags on social, currently scoring only 6,000. To effectively improve the WISE score, this user could focus on increasing the contribution in incentive campaigns. The 132,000 points this address obtained in the Identity dimension mainly come from proof of holding Ethereum Address and Twitter Profiles. Although this address did not receive previous airdrops from TON, it could improve its Engagement dimension score by verifying credentials in TBook incentive campaigns.
 
-Stay tuned for more updates on the WISE Score and other exciting developments in the TBook community!
+## Summary
+
+The WISE Score serves as an impartial and measurable benchmark for assessing the holistic contribution and value of accounts, both within the Web3 ecosystem and beyond. Through meticulous examination of user behaviors, the WISE Score assigns a numerical rating to each holder of a TBook incentive passport.
+
+Unlike simplistic metrics that merely tally interaction volumes and values with smart contracts, protocols, and dApps, the WISE Score’s evaluation framework is more nuanced. It scrutinizes the extent and depth of a user’s involvement in Web3 incentive campaigns, their steadfast loyalty, as well as any unique identity roles and credentials they possess.
