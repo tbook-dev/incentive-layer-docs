@@ -26,6 +26,10 @@ Commerce has its own natural logic, and many entrepreneurs want to meet users' c
 
 The topology of Web2 model is:
 
+<p  align="center">
+  Businesses -> Platform -> Users
+</p>
+
 ![alt text](https://github.com/tbook-dev/ton-builder-score/blob/main/pics/businessusersplatform.png)
 
 
