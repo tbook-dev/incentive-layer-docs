@@ -27,13 +27,10 @@ Commerce has its own natural logic, and many entrepreneurs want to meet users' c
 The topology of Web2 model is:
 
 <p  align="center">
-  Businesses -> Platform -> Users
+  Businesses -> Web2 Platforms -> Users
 </p>
 
-![alt text](https://github.com/tbook-dev/ton-builder-score/blob/main/pics/businessusersplatform.png)
-
-
-While the topology of Telegram and TON is:
+While the topology on TON can be:
 
 
 <p  align="center">
@@ -47,7 +44,6 @@ While the topology of Telegram and TON is:
 <p  align="center">
   Users -> Users
 </p>
-
 
 We are building a privacy-protecting commercial topology based on TON: The Incentive Layer.
 
