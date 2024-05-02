@@ -1,6 +1,4 @@
-# TBook New Feature: WISE Score for Community Value Assessment
-
-![TBook New Feature: WISE Score for Community Value Assessment](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*EUpxr0hJskdJcYmi8yOmxQ.jpeg)
+# WISE Score for Community Value Assessment
 
 **What is the WISE Score?**
 
@@ -19,6 +17,11 @@
 ## Understanding the Dimensions
 
 ### 1. Wealth (W)
+
+<div align="left">
+
+<figure><img src="pics/wealth.png" alt="" width="188"><figcaption></figcaption></figure>
+</div>
 
 The wealth dimension considers a user's on-chain assets, including cryptocurrency holdings, NFTs, and other digital assets. This dimension provides insight into a user's financial stake in the community.
 
