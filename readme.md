@@ -1,17 +1,17 @@
 # Learn about Incentive Layer
 
-Philosophy behind Incentive Layer
+1. Philosophy behind Incentive Layer
 
 [Why Incentive Layer on TON: Perfect Solution Between Commerce and Privacy](incentive-layer.md)
 
-WISE Score Leaderboard
+2. WISE Score Leaderboard
 
 [WISE Score for Community Value Assessment](wise-score.md)
 
-Incentive Layer Development
+3. Incentive Layer Development
 
 [WISE Score and TBook Incentive Passport Tech Spec](dev-roadmap.md)
 
-Sybil Attack Resistant Policy
+4. Sybil Attack Resistant Policy
 
 [Value of Sybil Attack Resistant Policies](sybil-attack.md)
