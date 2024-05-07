@@ -117,20 +117,13 @@ TON WISE(Wealth, identity, social, engagement) Score is an index to measure a us
 
 ## 4 Milestones
 
-### Phase 1: **Incentive Passport(1 week development)**&#x20;
+### Phase 1: **Incentive Passport TMA**&#x20;
 
-1. Integrate TONConnect wallet on Incentive Passport, enable users to create and use Incentive Passport with one click through TONConnect wallet.&#x20;
-2. Build TBook Incentive Passport TMA, allowing users to use Incentive Passport on telegram and WISE Scores through TMA.
+Integrate TONConnect wallet on Incentive Passport, enable users to create and use Incentive Passport with one click through TONConnect wallet. Build TBook Incentive Passport TMA, allowing users to use Incentive Passport on telegram to participate and claim rewards.
 
-### Phase 2: **TBook WISE Score Engine(2 weeks development)**&#x20;
+### Phase 2: **TBook TON WISE Score Engine**&#x20;
 
-1. Build TBook attestation scheme, allow users to attest their social and multi-chain activities on Incentive Passport.
-2. Build TON WISE Score engine. The engine handles the fundamental logic of users' Builder Score index data aggregation, as well as the ranking of users.
-
-### Phase 3: **TON WISE Score Leaderboard(1 week development)**&#x20;
-
-1. Build TBook Incentive Passport Telegram Mini App as the user interface for the telegram community.
-2. Build TON WISE Score Leaderboard, where all parties are able to view the top community builders. Web3 projects can find their best choice of community builders profiles.
+Build TBook attestation scheme, allow users to attest their social and multi-chain activities on Incentive Passport. Build TON WISE Score engine. The engine handles the fundamental logic of users' WISE Score index data aggregation, as well as the ranking of users. A catalog of incentive activities released by different projects. The catalog can be displayed based on different industries and categories and trends. The admin panel for projects to set up their incentive campaigns.
 
 ## 5 Conclusion
 
