@@ -29,7 +29,7 @@ TON WISE(Wealth, identity, social, engagement) Score is an index to measure a us
 ### 2.3 Build TON WISE Score Leaderboard
 
 1. Users need to be able to earn TON WISE Score points based on their on-chain activities attestations. With TON WISE Score Users will be able to measure and demonstrate their impact on TON.
-2. Leaderboard should be able to show the rank of high impact users. The rank could provide  Each user needs to have a public profile showing their TON Builder Score and key stats.&#x20;
+2. Leaderboard should be able to show the rank of high impact users. Each user needs to have a public profile showing their TON Builder Score and key stats.&#x20;
 3. When web3 projects onboard TON, they can find the profiles of high impact crowd on the Leaderboard, and use rewards(airdrops, tokens, NFTs etc.) to attract their participation in promotion campaigns.&#x20;
 
 ## 3 Product Implementation
