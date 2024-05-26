@@ -123,7 +123,13 @@ Integrate TONConnect wallet on Incentive Passport, enable users to create and us
 
 ### Phase 2: **TBook TON WISE Score Engine**&#x20;
 
-Build TBook attestation scheme, allow users to attest their social and multi-chain activities on Incentive Passport. Build TON WISE Score engine. The engine handles the fundamental logic of users' WISE Score index data aggregation, as well as the ranking of users. A catalog of incentive activities released by different projects. The catalog can be displayed based on different industries and categories and trends. The admin panel for projects to set up their incentive campaigns.
+Build TBook attestation scheme, allow users to attest their social and multi-chain activities on Incentive Passport. 
+
+Build TON WISE Score engine. The engine handles the fundamental logic of users' WISE Score index data aggregation, as well as the ranking of users. 
+
+A catalog of incentive activities released by different projects. The catalog can be displayed based on different categories and trends. 
+
+The admin panel for projects to set up their incentive campaigns.
 
 ## 5 Conclusion
 
