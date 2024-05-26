@@ -12,7 +12,7 @@ TON WISE(Wealth, identity, social, engagement) Score is an index to measure a us
 
 1. Help TON community participants digitalize their impact. Improve community participation.&#x20;
 2. Help new projects onboard TON, and provide Leaderboard for them to efficiently find the top community users to help them build their business.
-3. TON Builder Score is implemented on Incentive Passport&#x20;
+3. Be viewed on Incentive Passport&#x20;
 
 ## 2 Demands description
 
