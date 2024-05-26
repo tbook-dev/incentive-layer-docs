@@ -46,7 +46,7 @@ TON WISE(Wealth, identity, social, engagement) Score is an index to measure a us
 
 1. TON WISE Score is an indicator of: activeness, holdings and coinage, engagement, multi-chain wealth and social impact.&#x20;
 2. Handles the calculation of users’ TON Builder Scores and user ranking.&#x20;
-3. Each time a user attests certain data, TON WISE Score Engine will update the TOP users if there's any changes in the leaderboard. The update will be in the manner of a priority queue.
+3. TON WISE Score Engine will update the TOP users on the Leaderboard periodically. The update will be in the manner of a priority queue.
 
 #### **3 Leaderboard**
 
