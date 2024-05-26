@@ -99,9 +99,9 @@ TON WISE(Wealth, identity, social, engagement) Score is an index to measure a us
 
 #### 1 Incentive Passport TMA integration
 
-1. Tbook TMA integrates all the functionalities of incentive psasport.
-2. Incentive passport TMA will support all incentive assets of Tbook.
-3. Incentive passport TMA will be able to track all incentive footprints of users.
+1. Tbook TMA integrates main the functionalities of incentive psasport.
+2. Incentive passport TMA will support major incentive assets of Tbook.
+3. Incentive passport TMA will be able to track important incentive footprints of users.
 
 #### 2 TON WISE Score Engine
 
