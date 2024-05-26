@@ -119,7 +119,9 @@ TON WISE(Wealth, identity, social, engagement) Score is an index to measure a us
 
 ### Phase 1: **Incentive Passport TMA**&#x20;
 
-Integrate TONConnect wallet on Incentive Passport, enable users to create and use Incentive Passport with one click through TONConnect wallet. Build TBook Incentive Passport TMA, allowing users to use Incentive Passport on telegram to participate and claim rewards.
+Integrate TONConnect wallet on Incentive Passport, enable users to create and use Incentive Passport with one click through TONConnect wallet. 
+
+Build TBook Incentive Passport TMA, allowing users to use Incentive Passport on telegram to participate and claim rewards.
 
 ### Phase 2: **TBook TON WISE Score Engine**&#x20;
 
