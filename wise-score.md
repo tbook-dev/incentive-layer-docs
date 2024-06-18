@@ -24,11 +24,9 @@ Once users generating their WISE Score, they will view their ranking in the next
 <figure><img src="pics/WealthScore.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
 
-We aggregate a user’s attested wealth in the previous week and denote this wealth in the unit of USD. These wealth include:
+We aggregate a user’s attested wealth denote this wealth in the unit of USD. These wealth include:
 
-1. Crypto coins and tokens, that users have attested on TBook
-2. Total assets on trading platforms, attested by users on TBook
-3. Bank deposits, attested by users on TBook
+Crypto coins and tokens, that users have attested on TBook
 
 ### Identity
 <div align="left">
@@ -40,7 +38,7 @@ Identity score is a metrics that are based on the following:
 
 1. User has linked TBook passport to crypto address
 2. Users has linked TBook passport to social apps
-3. User has attested their KYC through a verified third party(like Binance)
+
 ### Social
 <div align="left">
 
@@ -62,7 +60,6 @@ Social impact is measured daily, based on the following:
 We measure users’ engagement based on the following metrics:
 
 1. Total number of verified credentials on TBook.
-2. Total amount of on-chain transactions.
 
 ## An Example of WISE Score
 Shown in the Figure is our WISE Score snapshot in TBook. The queried address had a WISE Score of 353,230, ranking in the top 30% among all TBook WISE Score holders.
