@@ -17,76 +17,40 @@ Early adopters who have been integral to the project’s growth demonstrate a hi
 1. Everytime you open the WISE Score page or reload the page, TBook will recalculate your WISE Score.
 2. Once you improve your Identity Score or Social Score, TBook will add the Score after seconds.
 
-### 1. Wealth (W)
-
 <div align="left">
 
 <figure><img src="pics/WealthScore.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
-
-Wealth Score updates automatically everytime users enter or reload the WISE Score page.
-
-We aggregate a user’s attested wealth in the previous week and denote this wealth in the unit of **USD**. These wealth include:
-
-Crypto coins and tokens, that users have attested on TBook
-
-### 2. Identity (I)
 
 <div align="left">
 
 <figure><img src="pics/IdentityScore.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
 
-Identity Score updates after users connect or disconnect their account or address.
-
-Identity score is a metrics that are based on the following:
-
-1. User has linked TBook passport to crypto address
-2. Users has linked TBook passport to social apps
-
-### 3. Social (S)
-
 <div align="left">
 
 <figure><img src="pics/SocialScore.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
-
-Social Score updates after users submit their fans number in social platform.
-If your fans number increase, the social score will update after you reload the page.
-
-Social impact is measured daily, based on the following:
-
-1. Total followers of a user from these social networks: Twitter.
-2. Total number of subscribers of Telegram groups and channels that a user is an administrator in.
-3. Total amount of subscribers of discord servers that a user is an administrator in.
-
-### 4. Engagement (E)
 
 <div align="left">
 
 <figure><img src="pics/EngageScore.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
 
-Engage Score updates automatically everytime users enter or reload the WISE Score page.
-
-We measure users’ engagement based on the following metrics:
-
-Total number of verified credentials on TBook.
-
-### An Example of WISE Score
-
-Shown in the Figure is our WISE Score snapshot in TBook. The queried address had a WISE Score of 353,230, ranking in the top 30% among all TBook WISE Score holders.
-
 <div align="left">
 
 <figure><img src="pics/examplewise.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
 
-This address scored 196,000 for Wealth, interacting with a relatively high variety of contracts and protocols. However, this address lags on social, currently scoring only 6,000. To effectively improve the WISE score, this user could focus on increasing the contribution in incentive campaigns. The 132,000 points this address obtained in the Identity dimension mainly come from proof of holding Ethereum Address and Twitter Profiles. Although this address did not receive previous airdrops from TON, it could improve its Engagement dimension score by verifying credentials in TBook incentive campaigns.
-
 ## When WISE Score Leaderboard update?
 WISE Score Leaderboard updates every 10 minutes.
 Once users generating their WISE Score, they will view their ranking in the next leaderboard update.
+
+## The Metrics we supported until now
+
+###
+
+1. We calculate a user’s  
 
 ## Summary
 
