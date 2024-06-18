@@ -21,7 +21,7 @@ Early adopters who have been integral to the project’s growth demonstrate a hi
 
 <div align="left">
 
-<figure><img src="pics/wealth.png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="pics/Wealth Score.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
 
 Wealth Score updates automatically everytime users enter or reload the WISE Score page.
