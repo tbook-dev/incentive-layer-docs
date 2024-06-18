@@ -73,21 +73,21 @@ This address scored 196,000 for Wealth, interacting with a relatively high varie
 
 ## The Metrics we supported until now
 
-*Wealth
+*Wealth*
 1. The TONcoins by querying through the toncenter api.
 2. The mainstream assets on the ETH mainnet by querying through the Etherscan API.
-*Identity
+*Identity*
 3. TON address
 4. EVM address
 5. Telegram Acccount
 6. Twitter Account connected to the incentive passport
 7. Discord Acccount connected to the incentive passport
-*Social
+*Social*
 8. Twitter Followers
 9. Telegram Channel Subscribers
 10. Telegram Group members
 11. Discord server members
-*Engage
+*Engage*
 12. Credentials verified in TBook
 
 ## Summary
