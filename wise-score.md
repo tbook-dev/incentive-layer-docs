@@ -34,7 +34,7 @@ Crypto coins and tokens, that users have attested on TBook
 
 <div align="left">
 
-<figure><img src="pics/identity.png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="pics/IdentityScore.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
 
 Identity Score updates after users connect or disconnect their account or address.
@@ -48,7 +48,7 @@ Identity score is a metrics that are based on the following:
 
 <div align="left">
 
-<figure><img src="pics/social.png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="pics/SocialScore.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
 
 Social Score updates after users submit their fans number in social platform.
@@ -64,7 +64,7 @@ Social impact is measured daily, based on the following:
 
 <div align="left">
 
-<figure><img src="pics/engagement.png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="pics/EngageScore.png" alt="" width="250"><figcaption></figcaption></figure>
 </div>
 
 Engage Score updates automatically everytime users enter or reload the WISE Score page.
