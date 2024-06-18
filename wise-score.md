@@ -6,12 +6,6 @@ With tailored metrics for each dimension, WISE Score offers users a comprehensiv
 
 In the product Incentive Passport from TBook, every user can generate their own unique WISE Score.
 
-## WISE Indicator System
-
-When evaluating a user’s contribution within the Web3 ecosystem, it’s crucial to consider various factors regarding user interaction with the protocol and project campaigns. Metrics such as the frequency, depth, and scope of user engagement play a significant role. Additionally, factors like user identity should not be overlooked.
-
-Early adopters who have been integral to the project’s growth demonstrate a high level of loyalty, which further enhances their significance. In light of these considerations, the WISE Score has been designed to encompass four key dimensions: Wealth, Identity, Social, and Engagement (W.I.S.E.).
-
 ## When WISE Score update?
 
 1. Everytime you open the WISE Score page or reload the page, TBook will recalculate your WISE Score.
