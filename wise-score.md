@@ -14,7 +14,7 @@ Early adopters who have been integral to the project’s growth demonstrate a hi
 ## When WISE Score and WISE Score Leaderboard update?
 
 1. Everytime you open the WISE Score page or reload the page, TBook will recalculate your WISE Score.
-Once you improve your Identity Score or Social Score, TBook will add the Score after seconds.
+Once you improve your Social Score, TBook will add the Score after seconds.
 2. WISE Score Leaderboard updates every 10 minutes.
 Once users generating their WISE Score, they will view their ranking in the next leaderboard update.
 
