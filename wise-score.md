@@ -77,7 +77,7 @@ This address scored 196,000 for Wealth, interacting with a relatively high varie
 ## The Metrics we supported until now
 
 *Wealth
-1. The TONcoin
+1. The TONcoins by querying through the toncenter api.
 2. The mainstream assets on the ETH mainnet by querying through the Etherscan API.
 *Identity
 3. TON address
